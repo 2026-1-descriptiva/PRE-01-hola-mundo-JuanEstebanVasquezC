@@ -14,6 +14,6 @@ def pregunta_01():
 
     """
 
-    return "Hola mundo cruel!"
+    return "Hola mundo cruel!" # Prueba segundo commit
 if __name__ == "__main__":
     print(pregunta_01())
